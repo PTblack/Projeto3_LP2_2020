@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5P8gGmp6gI0t7/QayzJaOYbnDduMgCxiDrXR91sqzeazJrQ9hziZjz4RX2trtQaT0oq1nYwWxg2y3j1Kygv19g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filip\\source\\repos\\LP2_2\\Projeto3_LP2_2020\\Console\\Model\\Model_Lib\\Model_Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filip\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
